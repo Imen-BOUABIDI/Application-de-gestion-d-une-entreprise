@@ -1,0 +1,398 @@
+# depslib dependency file v1.0
+1423055065 source:c:\users\hp\documents\c\mpc-dynamique\acceuil.c
+	"Header.h"
+
+1423056912 c:\users\hp\documents\c\mpc-dynamique\header.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<process.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1423056948 source:c:\users\hp\documents\c\mpc-dynamique\action.c
+	"Header.h"
+
+1423048936 source:c:\users\hp\documents\c\mpc-dynamique\adressen.c
+	"Header.h"
+
+1423048955 source:c:\users\hp\documents\c\mpc-dynamique\afficher.c
+	"Header.h"
+
+1423048993 source:c:\users\hp\documents\c\mpc-dynamique\affichert.c
+	"Header.h"
+
+1423049017 source:c:\users\hp\documents\c\mpc-dynamique\ajouter.c
+	"Header.h"
+
+1423049044 source:c:\users\hp\documents\c\mpc-dynamique\creerliste.c
+	"Header.h"
+
+1423049071 source:c:\users\hp\documents\c\mpc-dynamique\daten.c
+	"Header.h"
+
+1423049098 source:c:\users\hp\documents\c\mpc-dynamique\ecrirefichier.c
+	"Header.h"
+
+1423049119 source:c:\users\hp\documents\c\mpc-dynamique\etatc.c
+	"Header.h"
+
+1423049139 source:c:\users\hp\documents\c\mpc-dynamique\lectureid.c
+	"Header.h"
+
+1423055845 source:c:\users\hp\documents\c\mpc-dynamique\lecturecin.c
+	"Header.h"
+
+1423055883 source:c:\users\hp\documents\c\mpc-dynamique\lirefichier.c
+	"Header.h"
+
+1423056395 source:c:\users\hp\documents\c\mpc-dynamique\main.c
+	"Header.h"
+
+1423049255 source:c:\users\hp\documents\c\mpc-dynamique\maj.c
+	"Header.h"
+
+1423056687 source:c:\users\hp\documents\c\mpc-dynamique\modifier.c
+	"Header.h"
+
+1423056820 source:c:\users\hp\documents\c\mpc-dynamique\new.c
+	"Header.h"
+
+1423056855 source:c:\users\hp\documents\c\mpc-dynamique\record.c
+	"Header.h"
+
+1423049387 source:c:\users\hp\documents\c\mpc-dynamique\supprimer.c
+	"Header.h"
+
+1423049407 source:c:\users\hp\documents\c\mpc-dynamique\triid.c
+	"Header.h"
+
+1423049426 source:c:\users\hp\documents\c\mpc-dynamique\trinom.c
+	"Header.h"
+
+1423049351 source:c:\users\hp\documents\c\mpc-dynamique\verifcin.c
+	"Header.h"
+
+1423049327 source:c:\users\hp\documents\c\mpc-dynamique\verifid.c
+	"Header.h"
+
+1423055065 source:c:\users\hp\desktop\mpc-dynamique\acceuil.c
+	"Header.h"
+
+1426494473 c:\users\hp\desktop\mpc-dynamique\header.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<process.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1423056948 source:c:\users\hp\desktop\mpc-dynamique\action.c
+	"Header.h"
+
+1423048936 source:c:\users\hp\desktop\mpc-dynamique\adressen.c
+	"Header.h"
+
+1423048955 source:c:\users\hp\desktop\mpc-dynamique\afficher.c
+	"Header.h"
+
+1423048993 source:c:\users\hp\desktop\mpc-dynamique\affichert.c
+	"Header.h"
+
+1423049017 source:c:\users\hp\desktop\mpc-dynamique\ajouter.c
+	"Header.h"
+
+1423049044 source:c:\users\hp\desktop\mpc-dynamique\creerliste.c
+	"Header.h"
+
+1426496092 source:c:\users\hp\desktop\mpc-dynamique\daten.c
+	"Header.h"
+
+1423049098 source:c:\users\hp\desktop\mpc-dynamique\ecrirefichier.c
+	"Header.h"
+
+1423049119 source:c:\users\hp\desktop\mpc-dynamique\etatc.c
+	"Header.h"
+
+1426494632 source:c:\users\hp\desktop\mpc-dynamique\lecturecin.c
+	"Header.h"
+
+1426494616 source:c:\users\hp\desktop\mpc-dynamique\lectureid.c
+	"Header.h"
+
+1423055883 source:c:\users\hp\desktop\mpc-dynamique\lirefichier.c
+	"Header.h"
+
+1426494964 source:c:\users\hp\desktop\mpc-dynamique\main.c
+	"Header.h"
+
+1423049255 source:c:\users\hp\desktop\mpc-dynamique\maj.c
+	"Header.h"
+
+1423056687 source:c:\users\hp\desktop\mpc-dynamique\modifier.c
+	"Header.h"
+
+1423056820 source:c:\users\hp\desktop\mpc-dynamique\new.c
+	"Header.h"
+
+1426495078 source:c:\users\hp\desktop\mpc-dynamique\record.c
+	"Header.h"
+
+1423049387 source:c:\users\hp\desktop\mpc-dynamique\supprimer.c
+	"Header.h"
+
+1423049407 source:c:\users\hp\desktop\mpc-dynamique\triid.c
+	"Header.h"
+
+1426494524 source:c:\users\hp\desktop\mpc-dynamique\trinom.c
+	"Header.h"
+
+1426494505 source:c:\users\hp\desktop\mpc-dynamique\verifcin.c
+	"Header.h"
+
+1426494489 source:c:\users\hp\desktop\mpc-dynamique\verifid.c
+	"Header.h"
+
+1423055065 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\acceuil.c
+	"Header.h"
+
+1426494473 c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\header.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<process.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1426496553 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\action.c
+	"Header.h"
+
+1423048936 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\adressen.c
+	"Header.h"
+
+1423048955 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\afficher.c
+	"Header.h"
+
+1423048993 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\affichert.c
+	"Header.h"
+
+1423049017 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\ajouter.c
+	"Header.h"
+
+1423049044 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\creerliste.c
+	"Header.h"
+
+1426496092 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\daten.c
+	"Header.h"
+
+1423049098 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\ecrirefichier.c
+	"Header.h"
+
+1423049119 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\etatc.c
+	"Header.h"
+
+1426494632 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\lecturecin.c
+	"Header.h"
+
+1426494616 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\lectureid.c
+	"Header.h"
+
+1423055883 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\lirefichier.c
+	"Header.h"
+
+1426494964 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\main.c
+	"Header.h"
+
+1423049255 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\maj.c
+	"Header.h"
+
+1423056687 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\modifier.c
+	"Header.h"
+
+1423056820 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\new.c
+	"Header.h"
+
+1426495078 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\record.c
+	"Header.h"
+
+1423049387 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\supprimer.c
+	"Header.h"
+
+1423049407 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\triid.c
+	"Header.h"
+
+1426494524 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\trinom.c
+	"Header.h"
+
+1426494505 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\verifcin.c
+	"Header.h"
+
+1426494489 source:c:\users\toshiba\desktop\mpc-dynamique bouali abir & imen bouabidi\verifid.c
+	"Header.h"
+
+1426496553 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\action.c
+	"Header.h"
+
+1426494473 c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\header.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<process.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1423048936 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\adressen.c
+	"Header.h"
+
+1423048955 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\afficher.c
+	"Header.h"
+
+1423048993 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\affichert.c
+	"Header.h"
+
+1423049017 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\ajouter.c
+	"Header.h"
+
+1423049044 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\creerliste.c
+	"Header.h"
+
+1426496092 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\daten.c
+	"Header.h"
+
+1423049098 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\ecrirefichier.c
+	"Header.h"
+
+1423049119 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\etatc.c
+	"Header.h"
+
+1426494632 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\lecturecin.c
+	"Header.h"
+
+1426494616 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\lectureid.c
+	"Header.h"
+
+1423055883 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\lirefichier.c
+	"Header.h"
+
+1426494964 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\main.c
+	"Header.h"
+
+1423049255 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\maj.c
+	"Header.h"
+
+1423056687 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\modifier.c
+	"Header.h"
+
+1423056820 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\new.c
+	"Header.h"
+
+1426495078 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\record.c
+	"Header.h"
+
+1423049387 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\supprimer.c
+	"Header.h"
+
+1423049407 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\triid.c
+	"Header.h"
+
+1426494524 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\trinom.c
+	"Header.h"
+
+1426494505 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\verifcin.c
+	"Header.h"
+
+1426494489 source:c:\users\toshiba\desktop\mes programmes\mpc-dynamique bouali abir & imen bouabidi\verifid.c
+	"Header.h"
+
+1429206869 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\acceuil.c
+	"Header.h"
+
+1426494473 c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\header.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<process.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1426496553 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\action.c
+	"Header.h"
+
+1423048936 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\adressen.c
+	"Header.h"
+
+1423048955 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\afficher.c
+	"Header.h"
+
+1423048993 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\affichert.c
+	"Header.h"
+
+1423049017 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\ajouter.c
+	"Header.h"
+
+1423049044 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\creerliste.c
+	"Header.h"
+
+1426496092 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\daten.c
+	"Header.h"
+
+1423049098 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\ecrirefichier.c
+	"Header.h"
+
+1423049119 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\etatc.c
+	"Header.h"
+
+1426494632 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\lecturecin.c
+	"Header.h"
+
+1426494616 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\lectureid.c
+	"Header.h"
+
+1423055883 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\lirefichier.c
+	"Header.h"
+
+1426494964 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\main.c
+	"Header.h"
+
+1423049255 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\maj.c
+	"Header.h"
+
+1423056687 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\modifier.c
+	"Header.h"
+
+1423056820 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\new.c
+	"Header.h"
+
+1426495078 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\record.c
+	"Header.h"
+
+1423049387 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\supprimer.c
+	"Header.h"
+
+1423049407 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\triid.c
+	"Header.h"
+
+1426494524 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\trinom.c
+	"Header.h"
+
+1426494505 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\verifcin.c
+	"Header.h"
+
+1426494489 source:c:\users\toshiba\desktop\mes_programmes\mes programmes\mpc-dynamique bouali abir & imen bouabidi\verifid.c
+	"Header.h"
+

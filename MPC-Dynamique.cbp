@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MPC-Dynamique" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MPC-Dynamique" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MPC-Dynamique" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Acceuil.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Action.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AdresseN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Afficher.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AfficherT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Ajouter.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CreerListe.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DateN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="EcrireFichier.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="EtatC.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Header.h" />
+		<Unit filename="LectureCIN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LectureID.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LireFichier.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Maj.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Modifier.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="New.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Record.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Supprimer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TriID.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TriNom.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="VerifCIN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="VerifID.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,11 @@
+Nom et Prenom : Bouabidi Imen
+Identifiant : 1234567890
+Numero de CIN : 12345678
+Sexe : F
+Date de naissance : 1993/5/18
+Adresse : Degueche-Rue AlJomhouria-2260
+Numero de telephone : 24207754
+Etat civil: celibataire
+Nombre d'enfants : 0
+date d'enregistrement des données:Wed May 27 22:20:39 2015
+___________________________________________________
